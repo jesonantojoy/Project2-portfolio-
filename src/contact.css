@@ -1,0 +1,28 @@
+
+#title{
+    text-align: center;
+}
+@media(max-width:600px){
+    
+    #title{
+        margin-top:70px;
+        text-align: center;
+    }
+ }
+
+#main{
+    margin-top:90px;
+}
+.form{
+   margin-left:800px;
+   margin-top:-170px;
+}
+
+@media(max-width:600px){
+    
+    .form{
+
+    margin-left:0px;
+    margin-top:10px;
+     }
+ }
