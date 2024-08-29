@@ -16,15 +16,19 @@ function App() {
   return (
     <>
    
+
       <BrowserRouter>
+      <Layout/>
+      
       <Routes>
-      <Route path="/" element={<Layout/>}>
+      
+      
           <Route path="Home" element={<Home/>} />
           <Route path="About" element={<About/>} />
           <Route path="Skills" element={<Skills />} />
           <Route path="Portfolio" element={<Portfolio/>}/>
           <Route path="Contact" element={ <Contact/>} />
-          </Route>
+        
     
       </Routes>
     </BrowserRouter>
