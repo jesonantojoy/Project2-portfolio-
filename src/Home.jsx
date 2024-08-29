@@ -27,12 +27,12 @@ industry trends for continuous growth.</p>
                     <a href='https://www.linkedin.com/in/jesonantojoy/' target='_blank'><FontAwesomeIcon icon={faLinkedin} /></a>
                     <a href='https://github.com/jesonantojoy'target='_blank'><FontAwesomeIcon icon={faGithub} /></a>
                 </div>
-               <a href='JesonAntoJoyResume.pdf' download="Resume.pdf"><button className="cv-btn">Download CV</button></a>
+               <a href='Jeson Anto Joy Resume.pdf' download="Resume.pdf"><button className="cv-btn">Download CV</button></a>
             </div>
             <div className="images">
                    <div className="white-bg">
-                        <div className="blue-bg">
-                            <img src="https://media.licdn.com/dms/image/D5603AQG6qa_HPJqP0A/profile-displayphoto-shrink_400_400/0/1667019449567?e=1711584000&v=beta&t=ZRGzdOVyZ_MEbSRURKYSHlWU0vpVP4IXeAd7h165-rk" alt="image"></img>
+                        <div>
+                            <img src="Jeson.jpg" alt="image"></img>
                         </div>
                 </div>
             </div>
